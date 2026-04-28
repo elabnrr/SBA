@@ -1,3 +1,4 @@
+# Engineering Geometry Library v1.0
 import math
 
 # 1. Seviye: Fonksiyon tanımı
